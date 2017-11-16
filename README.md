@@ -4,7 +4,7 @@ Layout de romanisation des caractères cyrilliques pour un clavier MacbookAir in
 
 Installation
 
-Note : Mon Mac est en Anglais, il est possible que le nom des dossiers et menus soit différent.
+Note : Mon Mac est en Anglais, il est possible que le nom des dossiers et menus soient différent.
 
 1. Télécharger l'archive.
 2. Décompresser l'archive.
